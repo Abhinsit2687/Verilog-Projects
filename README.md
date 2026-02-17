@@ -1,9 +1,8 @@
-# Contains the Source codes for I2C and SPI communication Protocols
+# I2C and SPI Communication Protocol Implementation 
 
 ## 📌 Project Overview
 
 This project demonstrates the implementation and working of two widely used serial communication protocols: I2C (Inter-Integrated Circuit) and SPI (Serial Peripheral Interface).
-
 The objective of this project is to understand how data is transmitted between master and slave devices using synchronous serial communication and to compare the performance, speed, and architecture of both protocols.
 
 ## 🧠 About I2C Protocol
